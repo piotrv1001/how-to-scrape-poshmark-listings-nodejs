@@ -1,0 +1,13 @@
+{
+  "name": "how-to-scrape-poshmark-listings-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js example showing how to scrape Poshmark listings using the Apify Poshmark Listings Scraper actor",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.3",
+    "dotenv": "^16.4.5"
+  }
+}
