@@ -107,6 +107,10 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each listin
 
 You can run the actor directly in the browser with no code required, or integrate it into your workflow using the API.
 
+## Related resources
+
+- [How to Scrape Poshmark Listings and Seller Data](https://www.falconscrape.com/blog/how-to-scrape-poshmark-listings-and-seller-data) — blog post with a deep dive into scraping Poshmark at scale
+
 ## License
 
 MIT
