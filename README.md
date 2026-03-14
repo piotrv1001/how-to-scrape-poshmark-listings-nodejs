@@ -2,6 +2,8 @@
 
 This example shows how to scrape Poshmark listings in Node.js using the [Poshmark Listings Scraper](https://apify.com/piotrv1001/poshmark-listings-scraper) actor on Apify. Instead of building a scraper from scratch, this code calls a ready-made actor via the Apify API client — you get structured listing data in minutes with no browser automation setup required.
 
+![Poshmark listings scraper results](poshmark_results.png)
+
 ## What this example does
 
 - Calls the Poshmark Listings Scraper actor with a list of search URLs
