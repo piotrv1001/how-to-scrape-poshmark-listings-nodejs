@@ -110,6 +110,7 @@ You can run the actor directly in the browser with no code required, or integrat
 ## Related resources
 
 - [How to Scrape Poshmark Listings and Seller Data](https://www.falconscrape.com/blog/how-to-scrape-poshmark-listings-and-seller-data) — blog post with a deep dive into scraping Poshmark at scale
+- [How to Scrape Poshmark Listings with Apify](https://www.youtube.com/watch?v=St9QCMsh24A&pp=0gcJCcUKAYcqIYzv) — video walkthrough of scraping Poshmark listings using Apify
 
 ## License
 
